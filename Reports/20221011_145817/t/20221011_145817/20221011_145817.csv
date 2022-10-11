@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+t,Chrome 105.0.0.0,,,2022-10-11 14:58:22,2022-10-11 14:58:34,12.338s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 105.0.0.0,,,2022-10-11 14:58:22,2022-10-11 14:58:34,11.575s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-10-11 14:58:23,2022-10-11 14:58:27,4.325s,PASSED
+"navigateToUrl(""http://10.15.12.142:7119/login"")",Chrome 105.0.0.0,,,2022-10-11 14:58:27,2022-10-11 14:58:29,1.273s,PASSED
+"setText(findTestObject(""Object Repository/Page_NEO - OCS Support/input_()_username""), ""admin"")",Chrome 105.0.0.0,,,2022-10-11 14:58:29,2022-10-11 14:58:30,1.095s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_NEO - OCS Support/input_()_password""), ""RAIVpflpDOg="")",Chrome 105.0.0.0,,,2022-10-11 14:58:30,2022-10-11 14:58:30,0.610s,PASSED
+"click(findTestObject(""Object Repository/Page_NEO - OCS Support/button_Login""))",Chrome 105.0.0.0,,,2022-10-11 14:58:30,2022-10-11 14:58:34,3.519s,PASSED

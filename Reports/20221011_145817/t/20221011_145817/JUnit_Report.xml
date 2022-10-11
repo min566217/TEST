@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="t" time="12.338" tests="1" failures="0" errors="0">
+   <testsuite name="t" tests="1" failures="0" errors="0" time="12.338" skipped="0" timestamp="2022-10-11 14:58:22" hostname="min56 - 10.2.9.108" id="Test Suites/t">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\min56\\git\\TEST\\Reports\\20221011_145817\\t\\20221011_145817"/>
+         <property name="logFiles" value="C:\\Users\\min56\\git\\TEST\\Reports\\20221011_145817\\t\\20221011_145817\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="min56 - 10.2.9.108"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 105.0.0.0"/>
+         <property name="hostAddress" value="10.2.9.108"/>
+         <property name="sessionId" value="2318bdc8d9da38b4680b86209b544e14"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="11.575" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2022-10-11 14:58:22 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2022-10-11 14:58:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-10-11 14:58:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-11 14:58:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-11 14:58:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-10-11 14:58:27 - [TEST_STEP][PASSED] - navigateToUrl("http://10.15.12.142:7119/login"): Navigate to 'http://10.15.12.142:7119/login' successfully
+
+2022-10-11 14:58:29 - [MESSAGE][PASSED] - Navigate to 'http://10.15.12.142:7119/login' successfully
+
+2022-10-11 14:58:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_NEO - OCS Support/input_()_username"), "admin"): Text 'admin' is set on object 'Object Repository/Page_NEO - OCS Support/input_()_username'
+
+2022-10-11 14:58:30 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Page_NEO - OCS Support/input_()_username'
+
+2022-10-11 14:58:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_NEO - OCS Support/input_()_password"), "RAIVpflpDOg="): Text ****** has been set on object 'Object Repository/Page_NEO - OCS Support/input_()_password'
+
+2022-10-11 14:58:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_NEO - OCS Support/input_()_password'
+
+2022-10-11 14:58:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_NEO - OCS Support/button_Login")): Object: 'Object Repository/Page_NEO - OCS Support/button_Login' is clicked on
+
+2022-10-11 14:58:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_NEO - OCS Support/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-11 14:58:22 - [TEST_SUITE][PASSED] - t: Test Cases/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
